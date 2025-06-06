@@ -1,8 +1,3 @@
-diff --git a/package.json b/package.json
-index 91994596e63d75da2521145020f5d6a48e040068..7188a50ff6210e9afbc4657e1fb89045f7ed835c 100644
---- a/package.json
-+++ b/package.json
-@@ -1,25 +1,25 @@
  {
    "name": "react",
    "version": "1.0.0",
