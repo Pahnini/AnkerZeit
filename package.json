@@ -8,8 +8,7 @@ index 91994596e63d75da2521145020f5d6a48e040068..7188a50ff6210e9afbc4657e1fb89045
    "version": "1.0.0",
    "description": "",
    "keywords": [],
--  "main": "src/index.tsx",
-+  "main": "src/index.js",
+  "main": "src/index.js",
    "dependencies": {
      "react": "^19.0.0",
      "react-dom": "^19.0.0",
