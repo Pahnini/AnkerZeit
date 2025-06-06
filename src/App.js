@@ -55,6 +55,7 @@ function App() {
     if (input.trim() === "") return;
     setMessages([...messages, { from: "user", text: input }]);
     // Simulierter Bot
+    // Nutzer- und Bot-Nachricht in einem Durchgang anhängen
     setMessages((msgs) => [
       ...msgs,
       { from: "user", text: input },
